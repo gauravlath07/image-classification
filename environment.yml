@@ -8,7 +8,6 @@ dependencies:
 - libgcc=5.4.0=0
 - openjpeg=2.1.2=0
 - tesseract=3.05.01=0
-- appnope=0.1.0=py27_0
 - asn1crypto=0.22.0=py27_0
 - backports=1.0=py27_1
 - backports.functools_lru_cache=1.4=py27_1
@@ -34,7 +33,6 @@ dependencies:
 - funcsigs=1.0.2=py_2
 - functools32=3.2.3.2=py27_1
 - futures=3.1.1=py27_0
-- gettext=0.19.8.1=0
 - giflib=5.1.4=0
 - glib=2.51.4=0
 - hdf5=1.8.18=1
@@ -56,7 +54,6 @@ dependencies:
 - jupyter_console=5.1.0=py27_0
 - jupyter_core=4.3.0=py27_0
 - libffi=3.2.1=3
-- libgfortran=3.0.0=0
 - libiconv=1.14=4
 - libsodium=1.0.10=0
 - libwebp=0.5.2=7
